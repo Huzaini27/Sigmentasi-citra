@@ -22,13 +22,6 @@
 - [Fitur Aplikasi](#-fitur-aplikasi)
 - [Contoh Hasil](#-contoh-hasil)
 - [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-- [Instalasi](#-instalasi)
-- [Menjalankan Program](#-menjalankan-program)
-- [Cara Menggunakan GUI](#-cara-menggunakan-gui)
-- [Menjalankan Eksperimen](#-menjalankan-eksperimen)
-- [Struktur Proyek](#-struktur-proyek)
-- [Output Program](#-output-program)
-- [Catatan](#-catatan)
 
 ---
 
